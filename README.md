@@ -1,8 +1,6 @@
 # Controlling MX OPC with C#
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) C#<br>
-<br>
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) .NET 6.0<br>
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) .NET 6.0<br>
 <br>
 <img src="https://drive.google.com/uc?export=view&id=1vnKKPSc7y49XuTwCEOd8DT1Yd6Qp5KGc"> Factory IO<br>
 3D factory simulation for automation technologies. Allows to build a virtual factory using a selection of common industrial parts.
