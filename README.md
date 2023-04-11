@@ -1,8 +1,8 @@
 # Controlling MX OPC with C#
 - Used in the Project <br>
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)<br>
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) - v2022<br>
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)<br>
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)<br>
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) - 6.0<br>
 
 # Required Programs
 <img src="https://drive.google.com/uc?export=view&id=1vnKKPSc7y49XuTwCEOd8DT1Yd6Qp5KGc"> Factory IO
