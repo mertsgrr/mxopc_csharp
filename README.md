@@ -44,7 +44,7 @@ Latest generation of programming and maintenance software offered by Mitsubishi 
 <ol>
   <li>Make sure MX OPC is running. (by clicking the <strong>green arrow</strong> in the <strong>menu</strong> in the MX OPC Configurator)</li>
   <li>Open MELSEC GX Works3. </li>
-  <li>Convert <strong>the project</strong> in <strong>by pressing the F4 key (or clicking "Convert/Convert(B)" from the top menu)</strong></li>
+  <li>Convert the project <strong>by pressing the F4 key (or clicking "Convert/Convert(B)" from the top menu)</strong></li>
   <li>Start the simulation by clicking <strong>"Debug/Simulation/Start Simulation"</strong> in the top menu)</li>
   <li>Run the C# program</li>
   <li>Select <strong>"SistemStart"</strong> tag from the combobox named <strong>"Tags"</strong></li>
