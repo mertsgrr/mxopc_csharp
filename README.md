@@ -14,6 +14,10 @@ Allows users to access data from a MELSEC programmable controller using the OPC 
 <img src="https://drive.google.com/uc?export=view&id=1F-Qp7uRD5quDFHZX9vl4SSi0P05CHn4w"> MELSEC GX Works3 <br> 
 Latest generation of programming and maintenance software offered by Mitsubishi Electric specifically designed for the MELSEC iQ-R and MELSEC iQ-F Series control system.
 
+# Download Required Files
+
+[Click to download](https://drive.google.com/file/d/130snpXUlYq7Fev1TQcrRnjnw97-Eh-Kz/view?usp=share_link)
+
 # Installation
 
 <h3>Factory IO</h3>
@@ -29,7 +33,7 @@ Latest generation of programming and maintenance software offered by Mitsubishi 
   <li>Open <strong>MX OPC Configurator</stong></li>
   <li>Go to <strong>File</strong> menu from the top left</li>
   <li>Select <strong>CSV Import</strong> option</li>
-  <li>Import the <strong>mxopc_tags.csv</strong> file you downloaded from here</li>
+  <li>Import the <strong>mxopc_tags.csv</strong> file</li>
 </ul>
 
 <h3>MELSOFT GX Works3</h3>
@@ -37,7 +41,7 @@ Latest generation of programming and maintenance software offered by Mitsubishi 
   <li>Open <strong>MELSOFT GX Works3</strong></li>
   <li>Go to </strong>Project</strong> menu from the top left</li>
   <li>Select <strong>Open</strong> option</li>
-  <li>Open <strong>GXStartStop.gx3</strong> file you downloaded from here</li>
+  <li>Open <strong>GXStartStop.gx3</strong> file</li>
 </ul>
 
 # Usage
