@@ -1,8 +1,10 @@
 # Controlling MX OPC with C#
 
+# Used in the Project
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)  <br>
 <br>
-# Requirements
+
+# Required Programs
 <img src="https://drive.google.com/uc?export=view&id=1vnKKPSc7y49XuTwCEOd8DT1Yd6Qp5KGc"> Factory IO<br>
 3D factory simulation for automation technologies. Allows to build a virtual factory using a selection of common industrial parts.
 
